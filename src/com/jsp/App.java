@@ -7,4 +7,6 @@ public class App {
 //	added feature 3 by dev2
 	
 	// added feature 2 by master
+	
+//	added feature 3 by master
 }
